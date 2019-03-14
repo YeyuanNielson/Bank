@@ -4,3 +4,9 @@ c:\users\ysong\source\repos\Bank\Bank\obj\Debug\Bank.csprojAssemblyReference.cac
 c:\users\ysong\source\repos\Bank\Bank\obj\Debug\Bank.csproj.CoreCompileInputs.cache
 c:\users\ysong\source\repos\Bank\Bank\obj\Debug\Bank.dll
 c:\users\ysong\source\repos\Bank\Bank\obj\Debug\Bank.pdb
+C:\WebRepo\UnitTestSandbox\Bank\Bank\bin\Debug\Bank.dll
+C:\WebRepo\UnitTestSandbox\Bank\Bank\bin\Debug\Bank.pdb
+C:\WebRepo\UnitTestSandbox\Bank\Bank\obj\Debug\Bank.csprojAssemblyReference.cache
+C:\WebRepo\UnitTestSandbox\Bank\Bank\obj\Debug\Bank.csproj.CoreCompileInputs.cache
+C:\WebRepo\UnitTestSandbox\Bank\Bank\obj\Debug\Bank.dll
+C:\WebRepo\UnitTestSandbox\Bank\Bank\obj\Debug\Bank.pdb
